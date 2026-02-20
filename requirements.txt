@@ -1,6 +1,0 @@
-streamlit
-pycaret==3.3.2
-catboost
-pandas
-scikit-learn
-numpy
