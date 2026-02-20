@@ -1,0 +1,268 @@
+2026-02-19 14:53:37,828:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2026-02-19 14:53:37,828:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2026-02-19 14:53:37,828:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2026-02-19 14:53:37,828:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2026-02-19 14:53:38,849:INFO:Initializing load_model()
+2026-02-19 14:53:38,849:INFO:load_model(model_name=carbonminus_catboost_intervalo_completo, platform=None, authentication=None, verbose=True)
+2026-02-19 14:53:53,326:WARNING:C:\Users\helen\AppData\Roaming\Python\Python310\site-packages\pycaret\internal\pipeline.py:148: UserWarning: Version mismatch:
+current: {'deps_info': {'pip': '23.0.1', 'setuptools': '65.5.0', 'pycaret': '3.3.2', 'IPython': '8.38.0', 'ipywidgets': '8.1.8', 'tqdm': '4.67.3', 'numpy': '1.26.4', 'pandas': '2.1.4', 'jinja2': '3.1.6', 'scipy': '1.11.4', 'joblib': '1.3.2', 'sklearn': '1.4.2', 'pyod': '2.0.6', 'imblearn': '0.14.1', 'category_encoders': '2.7.0', 'lightgbm': '4.6.0', 'numba': '0.64.0', 'requests': '2.32.5', 'matplotlib': '3.7.5', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '6.5.2', 'plotly-resampler': 'Not installed', 'kaleido': '1.2.0', 'schemdraw': '0.15', 'statsmodels': '0.14.6', 'sktime': '0.26.0', 'tbats': '1.1.3', 'pmdarima': '2.0.4', 'psutil': '7.2.2', 'markupsafe': '3.0.3', 'pickle5': 'Not installed', 'cloudpickle': '3.1.2', 'deprecation': '2.1.0', 'xxhash': '3.6.0', 'wurlitzer': 'Not installed'}, 'python': {'version': '3.10.11', 'machine': 'AMD64'}}
+pickle: {'deps_info': {'pip': '25.2', 'setuptools': '78.1.1', 'pycaret': '3.3.2', 'IPython': '9.5.0', 'ipywidgets': '8.1.7', 'tqdm': '4.67.1', 'numpy': '1.26.4', 'pandas': '2.1.4', 'jinja2': '3.1.6', 'scipy': '1.11.4', 'joblib': '1.3.2', 'sklearn': '1.4.2', 'pyod': '2.0.5', 'imblearn': '0.14.0', 'category_encoders': '2.7.0', 'lightgbm': '4.6.0', 'numba': '0.61.0', 'requests': '2.32.5', 'matplotlib': '3.7.5', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.24.1', 'plotly-resampler': 'Not installed', 'kaleido': '1.1.0', 'schemdraw': '0.15', 'statsmodels': '0.14.5', 'sktime': '0.26.0', 'tbats': '1.1.3', 'pmdarima': '2.0.4', 'psutil': '7.0.0', 'markupsafe': '3.0.2', 'pickle5': 'Not installed', 'cloudpickle': '3.1.1', 'deprecation': '2.1.0', 'xxhash': '3.6.0', 'wurlitzer': '3.1.1'}, 'python': {'version': '3.11.13', 'machine': 'x86_64'}}
+  warnings.warn(
+
+2026-02-19 14:54:02,505:INFO:Initializing load_model()
+2026-02-19 14:54:02,506:INFO:load_model(model_name=carbonminus_catboost_intervalo_completo, platform=None, authentication=None, verbose=True)
+2026-02-19 14:54:03,041:INFO:Initializing load_model()
+2026-02-19 14:54:03,041:INFO:load_model(model_name=carbonminus_catboost_intervalo_completo, platform=None, authentication=None, verbose=True)
+2026-02-19 14:54:03,191:INFO:Initializing load_model()
+2026-02-19 14:54:03,191:INFO:load_model(model_name=carbonminus_catboost_intervalo_completo, platform=None, authentication=None, verbose=True)
+2026-02-19 14:54:03,361:INFO:Initializing load_model()
+2026-02-19 14:54:03,361:INFO:load_model(model_name=carbonminus_catboost_intervalo_completo, platform=None, authentication=None, verbose=True)
+2026-02-19 14:54:03,531:INFO:Initializing load_model()
+2026-02-19 14:54:03,531:INFO:load_model(model_name=carbonminus_catboost_intervalo_completo, platform=None, authentication=None, verbose=True)
+2026-02-19 14:54:03,675:INFO:Initializing load_model()
+2026-02-19 14:54:03,675:INFO:load_model(model_name=carbonminus_catboost_intervalo_completo, platform=None, authentication=None, verbose=True)
+2026-02-19 14:54:03,831:INFO:Initializing load_model()
+2026-02-19 14:54:03,831:INFO:load_model(model_name=carbonminus_catboost_intervalo_completo, platform=None, authentication=None, verbose=True)
+2026-02-19 14:54:03,977:INFO:Initializing load_model()
+2026-02-19 14:54:03,977:INFO:load_model(model_name=carbonminus_catboost_intervalo_completo, platform=None, authentication=None, verbose=True)
+2026-02-19 14:54:04,141:INFO:Initializing load_model()
+2026-02-19 14:54:04,141:INFO:load_model(model_name=carbonminus_catboost_intervalo_completo, platform=None, authentication=None, verbose=True)
+2026-02-19 14:54:04,313:INFO:Initializing load_model()
+2026-02-19 14:54:04,313:INFO:load_model(model_name=carbonminus_catboost_intervalo_completo, platform=None, authentication=None, verbose=True)
+2026-02-19 14:54:04,479:INFO:Initializing load_model()
+2026-02-19 14:54:04,479:INFO:load_model(model_name=carbonminus_catboost_intervalo_completo, platform=None, authentication=None, verbose=True)
+2026-02-19 14:54:04,647:INFO:Initializing load_model()
+2026-02-19 14:54:04,647:INFO:load_model(model_name=carbonminus_catboost_intervalo_completo, platform=None, authentication=None, verbose=True)
+2026-02-19 14:54:04,791:INFO:Initializing load_model()
+2026-02-19 14:54:04,791:INFO:load_model(model_name=carbonminus_catboost_intervalo_completo, platform=None, authentication=None, verbose=True)
+2026-02-19 14:54:04,961:INFO:Initializing load_model()
+2026-02-19 14:54:04,961:INFO:load_model(model_name=carbonminus_catboost_intervalo_completo, platform=None, authentication=None, verbose=True)
+2026-02-19 14:54:05,141:INFO:Initializing load_model()
+2026-02-19 14:54:05,141:INFO:load_model(model_name=carbonminus_catboost_intervalo_completo, platform=None, authentication=None, verbose=True)
+2026-02-19 14:54:05,300:INFO:Initializing load_model()
+2026-02-19 14:54:05,300:INFO:load_model(model_name=carbonminus_catboost_intervalo_completo, platform=None, authentication=None, verbose=True)
+2026-02-19 14:54:05,461:INFO:Initializing load_model()
+2026-02-19 14:54:05,461:INFO:load_model(model_name=carbonminus_catboost_intervalo_completo, platform=None, authentication=None, verbose=True)
+2026-02-19 14:54:05,640:INFO:Initializing load_model()
+2026-02-19 14:54:05,640:INFO:load_model(model_name=carbonminus_catboost_intervalo_completo, platform=None, authentication=None, verbose=True)
+2026-02-19 14:54:05,824:INFO:Initializing load_model()
+2026-02-19 14:54:05,824:INFO:load_model(model_name=carbonminus_catboost_intervalo_completo, platform=None, authentication=None, verbose=True)
+2026-02-19 14:54:05,982:INFO:Initializing load_model()
+2026-02-19 14:54:05,982:INFO:load_model(model_name=carbonminus_catboost_intervalo_completo, platform=None, authentication=None, verbose=True)
+2026-02-19 14:54:06,140:INFO:Initializing load_model()
+2026-02-19 14:54:06,140:INFO:load_model(model_name=carbonminus_catboost_intervalo_completo, platform=None, authentication=None, verbose=True)
+2026-02-19 14:54:06,312:INFO:Initializing load_model()
+2026-02-19 14:54:06,312:INFO:load_model(model_name=carbonminus_catboost_intervalo_completo, platform=None, authentication=None, verbose=True)
+2026-02-19 14:54:06,552:INFO:Initializing load_model()
+2026-02-19 14:54:06,552:INFO:load_model(model_name=carbonminus_catboost_intervalo_completo, platform=None, authentication=None, verbose=True)
+2026-02-19 14:54:07,873:INFO:Initializing load_model()
+2026-02-19 14:54:07,873:INFO:load_model(model_name=carbonminus_catboost_intervalo_completo, platform=None, authentication=None, verbose=True)
+2026-02-19 14:54:08,047:INFO:Initializing load_model()
+2026-02-19 14:54:08,047:INFO:load_model(model_name=carbonminus_catboost_intervalo_completo, platform=None, authentication=None, verbose=True)
+2026-02-19 14:54:08,206:INFO:Initializing load_model()
+2026-02-19 14:54:08,206:INFO:load_model(model_name=carbonminus_catboost_intervalo_completo, platform=None, authentication=None, verbose=True)
+2026-02-19 14:54:08,373:INFO:Initializing load_model()
+2026-02-19 14:54:08,373:INFO:load_model(model_name=carbonminus_catboost_intervalo_completo, platform=None, authentication=None, verbose=True)
+2026-02-19 14:54:08,527:INFO:Initializing load_model()
+2026-02-19 14:54:08,528:INFO:load_model(model_name=carbonminus_catboost_intervalo_completo, platform=None, authentication=None, verbose=True)
+2026-02-19 14:54:08,691:INFO:Initializing load_model()
+2026-02-19 14:54:08,691:INFO:load_model(model_name=carbonminus_catboost_intervalo_completo, platform=None, authentication=None, verbose=True)
+2026-02-19 14:54:08,855:INFO:Initializing load_model()
+2026-02-19 14:54:08,855:INFO:load_model(model_name=carbonminus_catboost_intervalo_completo, platform=None, authentication=None, verbose=True)
+2026-02-19 14:54:09,013:INFO:Initializing load_model()
+2026-02-19 14:54:09,021:INFO:load_model(model_name=carbonminus_catboost_intervalo_completo, platform=None, authentication=None, verbose=True)
+2026-02-19 14:54:09,177:INFO:Initializing load_model()
+2026-02-19 14:54:09,177:INFO:load_model(model_name=carbonminus_catboost_intervalo_completo, platform=None, authentication=None, verbose=True)
+2026-02-19 14:54:09,342:INFO:Initializing load_model()
+2026-02-19 14:54:09,342:INFO:load_model(model_name=carbonminus_catboost_intervalo_completo, platform=None, authentication=None, verbose=True)
+2026-02-19 14:54:09,507:INFO:Initializing load_model()
+2026-02-19 14:54:09,507:INFO:load_model(model_name=carbonminus_catboost_intervalo_completo, platform=None, authentication=None, verbose=True)
+2026-02-19 14:54:09,677:INFO:Initializing load_model()
+2026-02-19 14:54:09,677:INFO:load_model(model_name=carbonminus_catboost_intervalo_completo, platform=None, authentication=None, verbose=True)
+2026-02-19 14:54:09,841:INFO:Initializing load_model()
+2026-02-19 14:54:09,841:INFO:load_model(model_name=carbonminus_catboost_intervalo_completo, platform=None, authentication=None, verbose=True)
+2026-02-19 14:54:10,061:INFO:Initializing load_model()
+2026-02-19 14:54:10,061:INFO:load_model(model_name=carbonminus_catboost_intervalo_completo, platform=None, authentication=None, verbose=True)
+2026-02-19 14:54:15,555:INFO:Initializing load_model()
+2026-02-19 14:54:15,555:INFO:load_model(model_name=carbonminus_catboost_intervalo_completo, platform=None, authentication=None, verbose=True)
+2026-02-19 14:54:21,916:INFO:Initializing load_model()
+2026-02-19 14:54:21,916:INFO:load_model(model_name=carbonminus_catboost_intervalo_completo, platform=None, authentication=None, verbose=True)
+2026-02-19 14:54:23,285:INFO:Initializing load_model()
+2026-02-19 14:54:23,285:INFO:load_model(model_name=carbonminus_catboost_intervalo_completo, platform=None, authentication=None, verbose=True)
+2026-02-19 14:54:23,320:INFO:Initializing predict_model()
+2026-02-19 14:54:23,320:INFO:predict_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x00000250BD6E9FC0>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['A', 'B', 'C'],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=[],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('actual_estimator',
+                 CatBoostRegressor(border_count=254, loss_function='RMSE', random_state=42, task_type='CPU', verbose=False))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x00000250E3F440D0>)
+2026-02-19 14:54:23,320:INFO:Checking exceptions
+2026-02-19 14:54:23,320:INFO:Preloading libraries
+2026-02-19 14:54:23,329:INFO:Set up data.
+2026-02-19 14:54:23,333:INFO:Set up index.
+2026-02-19 14:54:33,866:INFO:Initializing load_model()
+2026-02-19 14:54:33,866:INFO:load_model(model_name=carbonminus_catboost_intervalo_completo, platform=None, authentication=None, verbose=True)
+2026-02-19 14:54:33,866:WARNING:C:\Users\helen\AppData\Roaming\Python\Python310\site-packages\pycaret\internal\pipeline.py:148: UserWarning: Version mismatch:
+current: {'deps_info': {'pip': '23.0.1', 'setuptools': '65.5.0', 'pycaret': '3.3.2', 'IPython': '8.38.0', 'ipywidgets': '8.1.8', 'tqdm': '4.67.3', 'numpy': '1.26.4', 'pandas': '2.1.4', 'jinja2': '3.1.6', 'scipy': '1.11.4', 'joblib': '1.3.2', 'sklearn': '1.4.2', 'pyod': '2.0.6', 'imblearn': '0.14.1', 'category_encoders': '2.7.0', 'lightgbm': '4.6.0', 'numba': '0.64.0', 'requests': '2.32.5', 'matplotlib': '3.7.5', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '6.5.2', 'plotly-resampler': 'Not installed', 'kaleido': '1.2.0', 'schemdraw': '0.15', 'statsmodels': '0.14.6', 'sktime': '0.26.0', 'tbats': '1.1.3', 'pmdarima': '2.0.4', 'psutil': '7.2.2', 'markupsafe': '3.0.3', 'pickle5': 'Not installed', 'cloudpickle': '3.1.2', 'deprecation': '2.1.0', 'xxhash': '3.6.0', 'wurlitzer': 'Not installed'}, 'python': {'version': '3.10.11', 'machine': 'AMD64'}}
+pickle: {'deps_info': {'pip': '25.2', 'setuptools': '78.1.1', 'pycaret': '3.3.2', 'IPython': '9.5.0', 'ipywidgets': '8.1.7', 'tqdm': '4.67.1', 'numpy': '1.26.4', 'pandas': '2.1.4', 'jinja2': '3.1.6', 'scipy': '1.11.4', 'joblib': '1.3.2', 'sklearn': '1.4.2', 'pyod': '2.0.5', 'imblearn': '0.14.0', 'category_encoders': '2.7.0', 'lightgbm': '4.6.0', 'numba': '0.61.0', 'requests': '2.32.5', 'matplotlib': '3.7.5', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.24.1', 'plotly-resampler': 'Not installed', 'kaleido': '1.1.0', 'schemdraw': '0.15', 'statsmodels': '0.14.5', 'sktime': '0.26.0', 'tbats': '1.1.3', 'pmdarima': '2.0.4', 'psutil': '7.0.0', 'markupsafe': '3.0.2', 'pickle5': 'Not installed', 'cloudpickle': '3.1.1', 'deprecation': '2.1.0', 'xxhash': '3.6.0', 'wurlitzer': '3.1.1'}, 'python': {'version': '3.11.13', 'machine': 'x86_64'}}
+  warnings.warn(
+
+2026-02-19 14:54:37,462:INFO:Initializing load_model()
+2026-02-19 14:54:37,462:INFO:load_model(model_name=carbonminus_catboost_intervalo_completo, platform=None, authentication=None, verbose=True)
+2026-02-19 14:54:37,480:INFO:Initializing predict_model()
+2026-02-19 14:54:37,480:INFO:predict_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x00000250E3A37E80>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['A', 'B', 'C'],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=[],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('actual_estimator',
+                 CatBoostRegressor(border_count=254, loss_function='RMSE', random_state=42, task_type='CPU', verbose=False))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x00000250E4264550>)
+2026-02-19 14:54:37,480:INFO:Checking exceptions
+2026-02-19 14:54:37,480:INFO:Preloading libraries
+2026-02-19 14:54:37,480:INFO:Set up data.
+2026-02-19 14:54:37,483:INFO:Set up index.
+2026-02-19 14:54:54,096:INFO:Initializing load_model()
+2026-02-19 14:54:54,096:INFO:load_model(model_name=carbonminus_catboost_intervalo_completo, platform=None, authentication=None, verbose=True)
+2026-02-19 14:54:54,096:WARNING:C:\Users\helen\AppData\Roaming\Python\Python310\site-packages\pycaret\internal\pipeline.py:148: UserWarning: Version mismatch:
+current: {'deps_info': {'pip': '23.0.1', 'setuptools': '65.5.0', 'pycaret': '3.3.2', 'IPython': '8.38.0', 'ipywidgets': '8.1.8', 'tqdm': '4.67.3', 'numpy': '1.26.4', 'pandas': '2.1.4', 'jinja2': '3.1.6', 'scipy': '1.11.4', 'joblib': '1.3.2', 'sklearn': '1.4.2', 'pyod': '2.0.6', 'imblearn': '0.14.1', 'category_encoders': '2.7.0', 'lightgbm': '4.6.0', 'numba': '0.64.0', 'requests': '2.32.5', 'matplotlib': '3.7.5', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '6.5.2', 'plotly-resampler': 'Not installed', 'kaleido': '1.2.0', 'schemdraw': '0.15', 'statsmodels': '0.14.6', 'sktime': '0.26.0', 'tbats': '1.1.3', 'pmdarima': '2.0.4', 'psutil': '7.2.2', 'markupsafe': '3.0.3', 'pickle5': 'Not installed', 'cloudpickle': '3.1.2', 'deprecation': '2.1.0', 'xxhash': '3.6.0', 'wurlitzer': 'Not installed'}, 'python': {'version': '3.10.11', 'machine': 'AMD64'}}
+pickle: {'deps_info': {'pip': '25.2', 'setuptools': '78.1.1', 'pycaret': '3.3.2', 'IPython': '9.5.0', 'ipywidgets': '8.1.7', 'tqdm': '4.67.1', 'numpy': '1.26.4', 'pandas': '2.1.4', 'jinja2': '3.1.6', 'scipy': '1.11.4', 'joblib': '1.3.2', 'sklearn': '1.4.2', 'pyod': '2.0.5', 'imblearn': '0.14.0', 'category_encoders': '2.7.0', 'lightgbm': '4.6.0', 'numba': '0.61.0', 'requests': '2.32.5', 'matplotlib': '3.7.5', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.24.1', 'plotly-resampler': 'Not installed', 'kaleido': '1.1.0', 'schemdraw': '0.15', 'statsmodels': '0.14.5', 'sktime': '0.26.0', 'tbats': '1.1.3', 'pmdarima': '2.0.4', 'psutil': '7.0.0', 'markupsafe': '3.0.2', 'pickle5': 'Not installed', 'cloudpickle': '3.1.1', 'deprecation': '2.1.0', 'xxhash': '3.6.0', 'wurlitzer': '3.1.1'}, 'python': {'version': '3.11.13', 'machine': 'x86_64'}}
+  warnings.warn(
+
+2026-02-19 14:54:56,771:INFO:Initializing load_model()
+2026-02-19 14:54:56,771:INFO:load_model(model_name=carbonminus_catboost_intervalo_completo, platform=None, authentication=None, verbose=True)
+2026-02-19 14:54:59,889:INFO:Initializing load_model()
+2026-02-19 14:54:59,889:INFO:load_model(model_name=carbonminus_catboost_intervalo_completo, platform=None, authentication=None, verbose=True)
+2026-02-19 14:54:59,906:INFO:Initializing predict_model()
+2026-02-19 14:54:59,906:INFO:predict_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x00000250E3CAB580>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['A', 'B', 'C'],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=[],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('actual_estimator',
+                 CatBoostRegressor(border_count=254, loss_function='RMSE', random_state=42, task_type='CPU', verbose=False))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x00000250E3D33490>)
+2026-02-19 14:54:59,906:INFO:Checking exceptions
+2026-02-19 14:54:59,906:INFO:Preloading libraries
+2026-02-19 14:54:59,907:INFO:Set up data.
+2026-02-19 14:54:59,909:INFO:Set up index.
+2026-02-19 15:11:58,165:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2026-02-19 15:11:58,165:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2026-02-19 15:11:58,165:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2026-02-19 15:11:58,165:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2026-02-19 15:11:59,383:INFO:Initializing load_model()
+2026-02-19 15:11:59,383:INFO:load_model(model_name=carbonminus_catboost_intervalo_completo, platform=None, authentication=None, verbose=True)
+2026-02-19 15:11:59,587:WARNING:C:\Users\helen\AppData\Roaming\Python\Python310\site-packages\pycaret\internal\pipeline.py:148: UserWarning: Version mismatch:
+current: {'deps_info': {'pip': '23.0.1', 'setuptools': '65.5.0', 'pycaret': '3.3.2', 'IPython': '8.38.0', 'ipywidgets': '8.1.8', 'tqdm': '4.67.3', 'numpy': '1.26.4', 'pandas': '2.1.4', 'jinja2': '3.1.6', 'scipy': '1.11.4', 'joblib': '1.3.2', 'sklearn': '1.4.2', 'pyod': '2.0.6', 'imblearn': '0.14.1', 'category_encoders': '2.7.0', 'lightgbm': '4.6.0', 'numba': '0.64.0', 'requests': '2.32.5', 'matplotlib': '3.7.5', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '6.5.2', 'plotly-resampler': 'Not installed', 'kaleido': '1.2.0', 'schemdraw': '0.15', 'statsmodels': '0.14.6', 'sktime': '0.26.0', 'tbats': '1.1.3', 'pmdarima': '2.0.4', 'psutil': '7.2.2', 'markupsafe': '3.0.3', 'pickle5': 'Not installed', 'cloudpickle': '3.1.2', 'deprecation': '2.1.0', 'xxhash': '3.6.0', 'wurlitzer': 'Not installed'}, 'python': {'version': '3.10.11', 'machine': 'AMD64'}}
+pickle: {'deps_info': {'pip': '25.2', 'setuptools': '78.1.1', 'pycaret': '3.3.2', 'IPython': '9.5.0', 'ipywidgets': '8.1.7', 'tqdm': '4.67.1', 'numpy': '1.26.4', 'pandas': '2.1.4', 'jinja2': '3.1.6', 'scipy': '1.11.4', 'joblib': '1.3.2', 'sklearn': '1.4.2', 'pyod': '2.0.5', 'imblearn': '0.14.0', 'category_encoders': '2.7.0', 'lightgbm': '4.6.0', 'numba': '0.61.0', 'requests': '2.32.5', 'matplotlib': '3.7.5', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.24.1', 'plotly-resampler': 'Not installed', 'kaleido': '1.1.0', 'schemdraw': '0.15', 'statsmodels': '0.14.5', 'sktime': '0.26.0', 'tbats': '1.1.3', 'pmdarima': '2.0.4', 'psutil': '7.0.0', 'markupsafe': '3.0.2', 'pickle5': 'Not installed', 'cloudpickle': '3.1.1', 'deprecation': '2.1.0', 'xxhash': '3.6.0', 'wurlitzer': '3.1.1'}, 'python': {'version': '3.11.13', 'machine': 'x86_64'}}
+  warnings.warn(
+
+2026-02-19 15:12:41,685:INFO:Initializing load_model()
+2026-02-19 15:12:41,685:INFO:load_model(model_name=carbonminus_catboost_intervalo_completo, platform=None, authentication=None, verbose=True)
+2026-02-19 15:12:41,715:INFO:Initializing predict_model()
+2026-02-19 15:12:41,715:INFO:predict_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x000001E16349FF10>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['A', 'B', 'C'],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=[],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('actual_estimator',
+                 CatBoostRegressor(border_count=254, loss_function='RMSE', random_state=42, task_type='CPU', verbose=False))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x000001E1795AC0D0>)
+2026-02-19 15:12:41,715:INFO:Checking exceptions
+2026-02-19 15:12:41,715:INFO:Preloading libraries
+2026-02-19 15:12:41,719:INFO:Set up data.
+2026-02-19 15:12:41,719:INFO:Set up index.
+2026-02-19 15:13:27,297:INFO:Initializing load_model()
+2026-02-19 15:13:27,297:INFO:load_model(model_name=carbonminus_catboost_intervalo_completo, platform=None, authentication=None, verbose=True)
+2026-02-19 15:13:27,297:WARNING:C:\Users\helen\AppData\Roaming\Python\Python310\site-packages\pycaret\internal\pipeline.py:148: UserWarning: Version mismatch:
+current: {'deps_info': {'pip': '23.0.1', 'setuptools': '65.5.0', 'pycaret': '3.3.2', 'IPython': '8.38.0', 'ipywidgets': '8.1.8', 'tqdm': '4.67.3', 'numpy': '1.26.4', 'pandas': '2.1.4', 'jinja2': '3.1.6', 'scipy': '1.11.4', 'joblib': '1.3.2', 'sklearn': '1.4.2', 'pyod': '2.0.6', 'imblearn': '0.14.1', 'category_encoders': '2.7.0', 'lightgbm': '4.6.0', 'numba': '0.64.0', 'requests': '2.32.5', 'matplotlib': '3.7.5', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '6.5.2', 'plotly-resampler': 'Not installed', 'kaleido': '1.2.0', 'schemdraw': '0.15', 'statsmodels': '0.14.6', 'sktime': '0.26.0', 'tbats': '1.1.3', 'pmdarima': '2.0.4', 'psutil': '7.2.2', 'markupsafe': '3.0.3', 'pickle5': 'Not installed', 'cloudpickle': '3.1.2', 'deprecation': '2.1.0', 'xxhash': '3.6.0', 'wurlitzer': 'Not installed'}, 'python': {'version': '3.10.11', 'machine': 'AMD64'}}
+pickle: {'deps_info': {'pip': '25.2', 'setuptools': '78.1.1', 'pycaret': '3.3.2', 'IPython': '9.5.0', 'ipywidgets': '8.1.7', 'tqdm': '4.67.1', 'numpy': '1.26.4', 'pandas': '2.1.4', 'jinja2': '3.1.6', 'scipy': '1.11.4', 'joblib': '1.3.2', 'sklearn': '1.4.2', 'pyod': '2.0.5', 'imblearn': '0.14.0', 'category_encoders': '2.7.0', 'lightgbm': '4.6.0', 'numba': '0.61.0', 'requests': '2.32.5', 'matplotlib': '3.7.5', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.24.1', 'plotly-resampler': 'Not installed', 'kaleido': '1.1.0', 'schemdraw': '0.15', 'statsmodels': '0.14.5', 'sktime': '0.26.0', 'tbats': '1.1.3', 'pmdarima': '2.0.4', 'psutil': '7.0.0', 'markupsafe': '3.0.2', 'pickle5': 'Not installed', 'cloudpickle': '3.1.1', 'deprecation': '2.1.0', 'xxhash': '3.6.0', 'wurlitzer': '3.1.1'}, 'python': {'version': '3.11.13', 'machine': 'x86_64'}}
+  warnings.warn(
+
+2026-02-19 15:13:32,191:INFO:Initializing load_model()
+2026-02-19 15:13:32,191:INFO:load_model(model_name=carbonminus_catboost_intervalo_completo, platform=None, authentication=None, verbose=True)
+2026-02-19 15:13:34,499:INFO:Initializing load_model()
+2026-02-19 15:13:34,499:INFO:load_model(model_name=carbonminus_catboost_intervalo_completo, platform=None, authentication=None, verbose=True)
+2026-02-19 15:13:36,529:INFO:Initializing load_model()
+2026-02-19 15:13:36,529:INFO:load_model(model_name=carbonminus_catboost_intervalo_completo, platform=None, authentication=None, verbose=True)
+2026-02-19 15:13:36,547:INFO:Initializing predict_model()
+2026-02-19 15:13:36,547:INFO:predict_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x000001E153FB1630>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['A', 'B', 'C'],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=[],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('actual_estimator',
+                 CatBoostRegressor(border_count=254, loss_function='RMSE', random_state=42, task_type='CPU', verbose=False))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x000001E1795AC0D0>)
+2026-02-19 15:13:36,547:INFO:Checking exceptions
+2026-02-19 15:13:36,547:INFO:Preloading libraries
+2026-02-19 15:13:36,547:INFO:Set up data.
+2026-02-19 15:13:36,547:INFO:Set up index.
+2026-02-19 15:24:55,379:INFO:Initializing load_model()
+2026-02-19 15:24:55,379:INFO:load_model(model_name=carbonminus_catboost_intervalo_completo, platform=None, authentication=None, verbose=True)
+2026-02-19 15:24:55,387:WARNING:C:\Users\helen\AppData\Roaming\Python\Python310\site-packages\pycaret\internal\pipeline.py:148: UserWarning: Version mismatch:
+current: {'deps_info': {'pip': '23.0.1', 'setuptools': '65.5.0', 'pycaret': '3.3.2', 'IPython': '8.38.0', 'ipywidgets': '8.1.8', 'tqdm': '4.67.3', 'numpy': '1.26.4', 'pandas': '2.1.4', 'jinja2': '3.1.6', 'scipy': '1.11.4', 'joblib': '1.3.2', 'sklearn': '1.4.2', 'pyod': '2.0.6', 'imblearn': '0.14.1', 'category_encoders': '2.7.0', 'lightgbm': '4.6.0', 'numba': '0.64.0', 'requests': '2.32.5', 'matplotlib': '3.7.5', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '6.5.2', 'plotly-resampler': 'Not installed', 'kaleido': '1.2.0', 'schemdraw': '0.15', 'statsmodels': '0.14.6', 'sktime': '0.26.0', 'tbats': '1.1.3', 'pmdarima': '2.0.4', 'psutil': '7.2.2', 'markupsafe': '3.0.3', 'pickle5': 'Not installed', 'cloudpickle': '3.1.2', 'deprecation': '2.1.0', 'xxhash': '3.6.0', 'wurlitzer': 'Not installed'}, 'python': {'version': '3.10.11', 'machine': 'AMD64'}}
+pickle: {'deps_info': {'pip': '25.2', 'setuptools': '78.1.1', 'pycaret': '3.3.2', 'IPython': '9.5.0', 'ipywidgets': '8.1.7', 'tqdm': '4.67.1', 'numpy': '1.26.4', 'pandas': '2.1.4', 'jinja2': '3.1.6', 'scipy': '1.11.4', 'joblib': '1.3.2', 'sklearn': '1.4.2', 'pyod': '2.0.5', 'imblearn': '0.14.0', 'category_encoders': '2.7.0', 'lightgbm': '4.6.0', 'numba': '0.61.0', 'requests': '2.32.5', 'matplotlib': '3.7.5', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.24.1', 'plotly-resampler': 'Not installed', 'kaleido': '1.1.0', 'schemdraw': '0.15', 'statsmodels': '0.14.5', 'sktime': '0.26.0', 'tbats': '1.1.3', 'pmdarima': '2.0.4', 'psutil': '7.0.0', 'markupsafe': '3.0.2', 'pickle5': 'Not installed', 'cloudpickle': '3.1.1', 'deprecation': '2.1.0', 'xxhash': '3.6.0', 'wurlitzer': '3.1.1'}, 'python': {'version': '3.11.13', 'machine': 'x86_64'}}
+  warnings.warn(
+
+2026-02-19 15:25:03,980:INFO:Initializing load_model()
+2026-02-19 15:25:03,980:INFO:load_model(model_name=carbonminus_catboost_intervalo_completo, platform=None, authentication=None, verbose=True)
+2026-02-19 15:25:04,003:INFO:Initializing predict_model()
+2026-02-19 15:25:04,003:INFO:predict_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x000001E163D055A0>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['A', 'B', 'C'],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=[],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('actual_estimator',
+                 CatBoostRegressor(border_count=254, loss_function='RMSE', random_state=42, task_type='CPU', verbose=False))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x000001E179582830>)
+2026-02-19 15:25:04,003:INFO:Checking exceptions
+2026-02-19 15:25:04,003:INFO:Preloading libraries
+2026-02-19 15:25:04,012:INFO:Set up data.
+2026-02-19 15:25:04,015:INFO:Set up index.
+2026-02-19 15:25:18,535:INFO:Initializing load_model()
+2026-02-19 15:25:18,535:INFO:load_model(model_name=carbonminus_catboost_intervalo_completo, platform=None, authentication=None, verbose=True)
+2026-02-19 15:25:18,541:WARNING:C:\Users\helen\AppData\Roaming\Python\Python310\site-packages\pycaret\internal\pipeline.py:148: UserWarning: Version mismatch:
+current: {'deps_info': {'pip': '23.0.1', 'setuptools': '65.5.0', 'pycaret': '3.3.2', 'IPython': '8.38.0', 'ipywidgets': '8.1.8', 'tqdm': '4.67.3', 'numpy': '1.26.4', 'pandas': '2.1.4', 'jinja2': '3.1.6', 'scipy': '1.11.4', 'joblib': '1.3.2', 'sklearn': '1.4.2', 'pyod': '2.0.6', 'imblearn': '0.14.1', 'category_encoders': '2.7.0', 'lightgbm': '4.6.0', 'numba': '0.64.0', 'requests': '2.32.5', 'matplotlib': '3.7.5', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '6.5.2', 'plotly-resampler': 'Not installed', 'kaleido': '1.2.0', 'schemdraw': '0.15', 'statsmodels': '0.14.6', 'sktime': '0.26.0', 'tbats': '1.1.3', 'pmdarima': '2.0.4', 'psutil': '7.2.2', 'markupsafe': '3.0.3', 'pickle5': 'Not installed', 'cloudpickle': '3.1.2', 'deprecation': '2.1.0', 'xxhash': '3.6.0', 'wurlitzer': 'Not installed'}, 'python': {'version': '3.10.11', 'machine': 'AMD64'}}
+pickle: {'deps_info': {'pip': '25.2', 'setuptools': '78.1.1', 'pycaret': '3.3.2', 'IPython': '9.5.0', 'ipywidgets': '8.1.7', 'tqdm': '4.67.1', 'numpy': '1.26.4', 'pandas': '2.1.4', 'jinja2': '3.1.6', 'scipy': '1.11.4', 'joblib': '1.3.2', 'sklearn': '1.4.2', 'pyod': '2.0.5', 'imblearn': '0.14.0', 'category_encoders': '2.7.0', 'lightgbm': '4.6.0', 'numba': '0.61.0', 'requests': '2.32.5', 'matplotlib': '3.7.5', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.24.1', 'plotly-resampler': 'Not installed', 'kaleido': '1.1.0', 'schemdraw': '0.15', 'statsmodels': '0.14.5', 'sktime': '0.26.0', 'tbats': '1.1.3', 'pmdarima': '2.0.4', 'psutil': '7.0.0', 'markupsafe': '3.0.2', 'pickle5': 'Not installed', 'cloudpickle': '3.1.1', 'deprecation': '2.1.0', 'xxhash': '3.6.0', 'wurlitzer': '3.1.1'}, 'python': {'version': '3.11.13', 'machine': 'x86_64'}}
+  warnings.warn(
+
+2026-02-19 15:25:21,636:INFO:Initializing load_model()
+2026-02-19 15:25:21,636:INFO:load_model(model_name=carbonminus_catboost_intervalo_completo, platform=None, authentication=None, verbose=True)
+2026-02-19 15:25:21,646:INFO:Initializing predict_model()
+2026-02-19 15:25:21,646:INFO:predict_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x000001E178E501C0>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['A', 'B', 'C'],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=[],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('actual_estimator',
+                 CatBoostRegressor(border_count=254, loss_function='RMSE', random_state=42, task_type='CPU', verbose=False))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x000001E1795839A0>)
+2026-02-19 15:25:21,646:INFO:Checking exceptions
+2026-02-19 15:25:21,646:INFO:Preloading libraries
+2026-02-19 15:25:21,646:INFO:Set up data.
+2026-02-19 15:25:21,646:INFO:Set up index.
+2026-02-19 16:17:54,673:INFO:Initializing load_model()
+2026-02-19 16:17:54,690:INFO:load_model(model_name=carbonminus_catboost_intervalo_completo, platform=None, authentication=None, verbose=True)
+2026-02-19 16:17:54,879:WARNING:C:\Users\helen\AppData\Roaming\Python\Python310\site-packages\pycaret\internal\pipeline.py:148: UserWarning: Version mismatch:
+current: {'deps_info': {'pip': '23.0.1', 'setuptools': '65.5.0', 'pycaret': '3.3.2', 'IPython': '8.38.0', 'ipywidgets': '8.1.8', 'tqdm': '4.67.3', 'numpy': '1.26.4', 'pandas': '2.1.4', 'jinja2': '3.1.6', 'scipy': '1.11.4', 'joblib': '1.3.2', 'sklearn': '1.4.2', 'pyod': '2.0.6', 'imblearn': '0.14.1', 'category_encoders': '2.7.0', 'lightgbm': '4.6.0', 'numba': '0.64.0', 'requests': '2.32.5', 'matplotlib': '3.7.5', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '6.5.2', 'plotly-resampler': 'Not installed', 'kaleido': '1.2.0', 'schemdraw': '0.15', 'statsmodels': '0.14.6', 'sktime': '0.26.0', 'tbats': '1.1.3', 'pmdarima': '2.0.4', 'psutil': '7.2.2', 'markupsafe': '3.0.3', 'pickle5': 'Not installed', 'cloudpickle': '3.1.2', 'deprecation': '2.1.0', 'xxhash': '3.6.0', 'wurlitzer': 'Not installed'}, 'python': {'version': '3.10.11', 'machine': 'AMD64'}}
+pickle: {'deps_info': {'pip': '25.2', 'setuptools': '78.1.1', 'pycaret': '3.3.2', 'IPython': '9.5.0', 'ipywidgets': '8.1.7', 'tqdm': '4.67.1', 'numpy': '1.26.4', 'pandas': '2.1.4', 'jinja2': '3.1.6', 'scipy': '1.11.4', 'joblib': '1.3.2', 'sklearn': '1.4.2', 'pyod': '2.0.5', 'imblearn': '0.14.0', 'category_encoders': '2.7.0', 'lightgbm': '4.6.0', 'numba': '0.61.0', 'requests': '2.32.5', 'matplotlib': '3.7.5', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.24.1', 'plotly-resampler': 'Not installed', 'kaleido': '1.1.0', 'schemdraw': '0.15', 'statsmodels': '0.14.5', 'sktime': '0.26.0', 'tbats': '1.1.3', 'pmdarima': '2.0.4', 'psutil': '7.0.0', 'markupsafe': '3.0.2', 'pickle5': 'Not installed', 'cloudpickle': '3.1.1', 'deprecation': '2.1.0', 'xxhash': '3.6.0', 'wurlitzer': '3.1.1'}, 'python': {'version': '3.11.13', 'machine': 'x86_64'}}
+  warnings.warn(
+
